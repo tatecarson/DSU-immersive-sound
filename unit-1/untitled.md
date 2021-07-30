@@ -1,14 +1,10 @@
-# Untitled
+# Start of unit 1
 
 Some content 
 
-{% tabs %}
-{% tab title="First Tab" %}
+{% page-ref page="untitled.md" %}
 
-{% endtab %}
-
-{% tab title="Second Tab" %}
-
-{% endtab %}
-{% endtabs %}
+{% hint style="info" %}
+Try this
+{% endhint %}
 
